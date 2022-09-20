@@ -5,11 +5,10 @@ import org.junit.jupiter.api.Test;
  * The test class TemperatureConverterTest.
  * Use this test suite to test your methods.
  *
- * @author  Joe Polacco
+ * @author Joe Polacco
  * @version July 28, 2020
  */
-public class TemperatureConverterTest
-{
+public class TemperatureConverterTest {
     @Test
     public void testFToCPositive() {
         TemperatureConverter converter = new TemperatureConverter();
